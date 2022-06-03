@@ -155,7 +155,10 @@ a {
     background-color: #4445D0;
     padding: 10px;
 }
-
+.down {
+    display: flex;
+    flex-direction: column;
+}
 .info_list {
     background: #B5BCEF;
     margin: 0;
